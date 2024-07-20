@@ -311,6 +311,8 @@ The translations are available here: https://docs.google.com/spreadsheets/d/1QQq
 
 ## Developer Notes
 
+The app is located in ./budget. Ensure Flutter is installed and build normally (see documentation). This version was built using Flutter version Channel stable, 3.13.6.
+
 ### Pull Requests and Contributions
 
 Unfortunately, I am currently not accepting contributions due to licensing and credits. Since this application turns some profits, I want to avoid any muddy water when it comes to compensation for contributions. You are free to submit an [issue](https://github.com/jameskokoska/Cashew/issues) and I can consider it!
